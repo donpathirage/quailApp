@@ -1,0 +1,58 @@
+{
+    "images": [
+        {
+            "height": 1500,
+            "width": 2000,
+            "id": 1,
+            "file_name": "/home/appuser/detectron2_repo/data/config/template/all/672_to_674.png"
+        },
+        {
+            "height": 1500,
+            "width": 2000,
+            "id": 2,
+            "file_name": "/home/appuser/detectron2_repo/data/config/template/all/871_to_873.png"
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "covey",
+            "id": 1,
+            "name": "covey"
+        },
+        {
+            "supercategory": "other",
+            "id": 2,
+            "name": "other"
+        }
+    ],
+    "annotations": [
+        {
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                1414.0,
+                15.0,
+                268.0,
+                990.0
+            ],
+            "segmentation": [],
+            "category_id": 1,
+            "id": 1,
+            "area": 3000000
+        },
+        {
+            "iscrowd": 0,
+            "image_id": 2,
+            "bbox": [
+                927.0,
+                1.0,
+                265.0,
+                1355.0
+            ],
+            "segmentation": [],
+            "category_id": 2,
+            "id": 2,
+            "area": 3000000
+        }
+    ]
+}

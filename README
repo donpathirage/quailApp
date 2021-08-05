@@ -1,0 +1,4 @@
+All input and output of data happens inside the /data folder
+
+Recording folders with scalograms should be placed inside /data/input
+Results for each recording will be saved inside /data/output

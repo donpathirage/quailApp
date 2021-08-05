@@ -1,0 +1,11 @@
+The detection container requires a data folder set up as shown here for the input and output of data.
+
+config: Contains the config.ini file that specifies how the detection container processes data
+	and the template folder contains an example of training data to be used by the detectron visualizer
+	when writing output images from inference
+	
+input: Contains recording folders of scalograms for model inference
+
+models: Contains the model weights files
+
+output: Where the output of the detection container is stored

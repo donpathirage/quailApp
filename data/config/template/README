@@ -1,0 +1,4 @@
+Template folder contains an example of the training data used to generate the model that is being used for inference. The visualizer for detectron uses this template to when writing output detections on images.
+
+'all' folder contains example images and labels used in the training dataset
+template.json is the coco format label file corresponding to contents of 'all'

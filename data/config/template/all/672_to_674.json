@@ -1,0 +1,26 @@
+{
+  "version": "4.5.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "covey",
+      "points": [
+        [
+          1414.9312977099237,
+          1005.1603053435114
+        ],
+        [
+          1682.8702290076335,
+          15.083969465648853
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "672_to_674.png",
+  "imageData": null,
+  "imageHeight": 1500,
+  "imageWidth": 2000
+}
